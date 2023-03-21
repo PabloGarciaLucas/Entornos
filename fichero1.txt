@@ -1,3 +1,4 @@
 Nueva linea
 segunda linea
 tercera linea
+primera linea fichero 1
